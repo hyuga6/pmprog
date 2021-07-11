@@ -1,0 +1,7 @@
+%cd /content
+!rm -rf pmprog
+!git clone https://github.com/平川日向/pmprog.git
+%cd pmprog/students
+!echo "message" > 2042100
+!git add 2042100
+!git commit -m 'メッセージ'
