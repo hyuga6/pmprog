@@ -1,0 +1,3 @@
+%cd /content
+!rm -rf pmprog
+!git clone https://github.com/平川日向/pmprog.git
